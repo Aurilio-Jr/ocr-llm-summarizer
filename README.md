@@ -19,7 +19,7 @@ MLOps: Containerização e versionamento de artefatos.
 
 Aurilio Junior - Estudante Ciências da computação / Foco em desevolvimento e dados
 
-[Nome do Colega 1] - Engenheiro de [Área/Foco]
+Júlia Coité - Estudante de Ciência da computação / Foco em Dados e NLP
 
 [Nome do Colega 2] - Engenheiro de [Área/Foco]
 
