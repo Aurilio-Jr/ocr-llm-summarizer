@@ -1,0 +1,1 @@
+#Funções para tirar ruído e arrumar contraste.

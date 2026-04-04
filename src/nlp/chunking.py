@@ -1,0 +1,1 @@
+# Funções para fatiar o texto longo.

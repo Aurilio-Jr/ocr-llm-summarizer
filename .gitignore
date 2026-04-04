@@ -1,0 +1,43 @@
+# --- DADOS E IMAGENS ---
+# Ignora tudo dentro da pasta data
+data/*
+# Mas NÃO ignora o seu arquivo de texto informativo
+!data/info.txt
+!data/raw/
+!data/processed/
+# Ignora extensões de imagem comuns (caso elas fujam da pasta data)
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.zip
+
+# --- NOTEBOOKS ---
+# Ignora os arquivos temporários que o Jupyter cria ao salvar
+.ipynb_checkpoints/
+# Se você quiser que o info.txt do notebook apareça, mas as notas não:
+# notebooks/*
+# !notebooks/info.txt
+
+# --- PYTHON & AMBIENTE ---
+# Ignora pastas de ambiente virtual
+venv/
+env/
+.env
+# Ignora arquivos compilados do Python (lixo de execução)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- IDEs E SISTEMA ---
+# Arquivos do VS Code ou PyCharm
+.vscode/
+.idea/
+# Arquivos de sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# --- MLOPS (DVC) ---
+# Se usarem DVC no futuro, ele gerencia os arquivos .dvc, 
+# mas os dados reais continuam ignorados

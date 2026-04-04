@@ -1,0 +1,1 @@
+#Funções que chamam o Tesseract/EasyOCR
