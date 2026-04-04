@@ -1,4 +1,7 @@
 👁️‍🗨️ Projeto: Vision-to-Summary Pipeline
+
+Pipeline de Inteligência Artificial que combina Visão Computacional (OCR) e NLP (LLMs) para limpar imagens ruidosas, extrair textos e gerar resumos estruturados
+
 🎯 Intenção do Projeto
 Este repositório hospeda o desenvolvimento de um sistema inteligente capaz de processar imagens de documentos (muitas vezes ruidosas ou com baixa qualidade), extrair seu conteúdo textual via OCR e gerar resumos precisos utilizando Modelos de Linguagem de Larga Escala (LLMs).
 
