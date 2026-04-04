@@ -1,8 +1,8 @@
-👁️‍🗨️ Projeto: Vision-to-Summary Pipeline
+# 👁️‍🗨️ Projeto: Vision-to-Summary Pipeline
 
 Pipeline de Inteligência Artificial que combina Visão Computacional (OCR) e NLP (LLMs) para limpar imagens ruidosas, extrair textos e gerar resumos estruturados
 
-🎯 Intenção do Projeto
+## 🎯 Intenção do Projeto
 Este repositório hospeda o desenvolvimento de um sistema inteligente capaz de processar imagens de documentos (muitas vezes ruidosas ou com baixa qualidade), extrair seu conteúdo textual via OCR e gerar resumos precisos utilizando Modelos de Linguagem de Larga Escala (LLMs).
 
 Mais do que apenas o produto final, o objetivo central deste projeto é o estudo aplicado de práticas reais de engenharia de software e IA, incluindo:
@@ -15,7 +15,7 @@ Colaboração via Git: Fluxo de trabalho baseado em Branches, Pull Requests e Co
 
 MLOps: Containerização e versionamento de artefatos.
 
-👥 Os Envolvidos
+## 👥 Os Envolvidos
 
 Aurilio Junior - Estudante Ciências da computação / Foco em desevolvimento e dados
 
@@ -25,7 +25,7 @@ Júlia Coité - Estudante de Ciência da computação / Foco em Dados e NLP
 
 (Dica: Sintam-se à vontade para adicionar links para seus perfis do LinkedIn ou GitHub aqui)
 
-🛠️ Tecnologias e Ferramentas (Esboço Inicial)
+## 🛠️ Tecnologias e Ferramentas (Esboço Inicial)
 Como este projeto nasceu da necessidade de exploração e aprendizado, as tecnologias finais ainda estão sendo validadas. Atualmente, nosso "radar" de estudos inclui:
 
 Linguagem: Python 3.10+
@@ -36,7 +36,7 @@ LLMs: APIs do Google Gemini, OpenAI ou modelos locais via LangChain.
 
 Infra: Docker, DVC (Data Version Control).
 
-🚀 Dinâmica de Desenvolvimento
+## 🚀 Dinâmica de Desenvolvimento
 Adotamos uma abordagem de "Batalha de Código". Para cada fase do projeto:
 
 Cada membro desenvolve sua solução em uma branch separada.
@@ -45,7 +45,7 @@ Abrimos um Pull Request (PR) para comparar resultados (performance, precisão e 
 
 A solução vencedora após o Code Review é integrada à branch main.
 
-📂 Como rodar o projeto
+## 📂 Como rodar o projeto
 (Instruções de instalação serão adicionadas conforme o pipeline for definido)
 
 Clone o repositório: git clone https://github.com/seu-usuario/nome-do-repo.git
