@@ -21,7 +21,7 @@ Aurilio Junior - Estudante Ciências da computação / Foco em desevolvimento e 
 
 Júlia Coité - Estudante de Ciência da computação / Foco em Dados e NLP
 
-[Nome do Colega 2] - Engenheiro de [Área/Foco]
+Gabriel Vidal - Estudante de Ciência da computação / Foco em Visão Computacional e Nlp
 
 (Dica: Sintam-se à vontade para adicionar links para seus perfis do LinkedIn ou GitHub aqui)
 
